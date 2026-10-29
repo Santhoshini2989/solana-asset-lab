@@ -1,0 +1,8 @@
+node_modules/
+dist/
+.env
+.env.*
+*.log
+*.json.bak
+wallet.json
+keypair.json
