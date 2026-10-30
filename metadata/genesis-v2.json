@@ -2,7 +2,7 @@
   "name": "Genesis",
   "symbol": "GEN",
   "description": "A Metaplex Core NFT demonstrating on-chain metadata updates on Solana Devnet.",
-  "image": "",
+  "image": "https://raw.githubusercontent.com/Santhoshini2989/solana-asset-lab/main/assets/genesis.png",
   "attributes": [
     {
       "trait_type": "Program",
