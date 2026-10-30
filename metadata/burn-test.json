@@ -1,0 +1,16 @@
+{
+  "name": "Burn Test",
+  "symbol": "BURN",
+  "description": "A temporary Metaplex Core NFT created to demonstrate burning and rent recovery on Solana Devnet.",
+  "image": "",
+  "attributes": [
+    {
+      "trait_type": "Purpose",
+      "value": "NFT Burn Test"
+    },
+    {
+      "trait_type": "Program",
+      "value": "Turbin3"
+    }
+  ]
+}
