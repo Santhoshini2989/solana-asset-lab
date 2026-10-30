@@ -1,0 +1,16 @@
+{
+  "name": "Genesis",
+  "symbol": "GEN",
+  "description": "A Metaplex Core NFT demonstrating on-chain metadata updates on Solana Devnet.",
+  "image": "",
+  "attributes": [
+    {
+      "trait_type": "Program",
+      "value": "Turbin3"
+    },
+    {
+      "trait_type": "Version",
+      "value": "2"
+    }
+  ]
+}
