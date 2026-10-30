@@ -1,0 +1,20 @@
+{
+  "name": "Santhoshini Genesis",
+  "symbol": "SGEN",
+  "description": "A Genesis NFT created on Solana Devnet using Metaplex Core as part of the Turbin3 program.",
+  "image": "",
+  "attributes": [
+    {
+      "trait_type": "Program",
+      "value": "Turbin3"
+    },
+    {
+      "trait_type": "Network",
+      "value": "Solana Devnet"
+    },
+    {
+      "trait_type": "Edition",
+      "value": "Genesis"
+    }
+  ]
+}
